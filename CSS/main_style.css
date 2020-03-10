@@ -1,0 +1,63 @@
+html{
+	background-color: #0FBCCA;
+	
+}
+.logo{
+	height: 100px;
+	width: 150px;
+	float: left;
+	
+}
+.menu>li{
+	display: inline-block;
+	font-size: 1rem;
+	float: right;
+	margin: 20px;
+	margin-top: 10px;
+	padding: 5px;
+}
+.main_menu{
+	text-decoration: none;
+	color: grey;
+}
+.cap{
+	height: 116px;
+	width: 1551px;
+}
+.h2_main{
+	text-align: center;
+}
+.photo1{
+	border: 5px solid #DAC81B;
+}
+.lorem_1{
+	float: right;
+	text-align :right top;
+	 margin-left: 640px;
+	 margin-top: -550px;
+	 font-size: 22px;
+}
+.body{
+	height: 614px;
+	width: 1535px;
+}
+.photo2{
+	height: 450px;
+	width: 450px;
+	margin-left:1430px;
+	margin-top: 80px;
+	border: 5px solid #DAC81B; 
+}
+.lorem_2{
+	float: left;
+	text-align: left top;
+	margin-top: -360px;
+	font-size: 20px;
+}
+.hr{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+
+

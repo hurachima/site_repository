@@ -1,0 +1,40 @@
+html{
+	background-color: #0FBCCA;
+}
+.logo{
+	height: 100px;
+	width: 150px;
+	float: left;
+	
+}
+.menu>li{
+	display: inline-block;
+	font-size: 1rem;
+	float: right;
+	margin: 20px;
+	margin-top: 10px;
+	padding: 5px;
+}
+.main_menu{
+	text-decoration: none;
+	color: grey;
+}
+.cap{
+	height: 199px;
+	width: 1551px;
+}
+.h2_main{
+	text-align: center;
+}
+.vid{
+	text-align: center;
+}
+.text{
+	font-size: 20px bold;
+	margin-top: 60px;
+}
+.hr{
+	margin-top: 60px;
+
+}
+
