@@ -58,6 +58,41 @@ html{
 	margin-top: 40px;
 	margin-bottom: 40px;
 }
+@media screen and (max-width: 1366px){
+.photo2{
+	height: 420px;
+	width: 420px;
+	margin-left:1150px;
+	margin-top: 80px;
+	border: 5px solid #DAC81B; 
+}
+.hr{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.photo1{
+	border: 5px solid #DAC81B;
+	top: -100px;
+}
+.body{
+	height: 614px;
+	width: 1535px;
+}
+.lorem_1{
+	float: right;
+	text-align :right top;
+	 margin-left: 640px;
+	 margin-top: -550px;
+	 font-size: 19px;
+}
+hr{
+	width: 1550px;
+	size: 2;
+	color: grey;
+
+}
+}
+
 
 
 
